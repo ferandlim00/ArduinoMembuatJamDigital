@@ -23,7 +23,12 @@ Proyek ini adalah implementasi sistem jam digital berbasis mikrokontroler yang d
 ## 📐 Skema Rangkaian
 ![Diagram Rangkaian Digital Clock](SkemaRangkaian.png)
 
-
+## 🚀 Rencana Pengembangan (Roadmap)
+Untuk pengembangan lebih lanjut, proyek ini dapat ditingkatkan dengan:
+- [ ] **Auto-Brightness:** Mengintegrasikan LDR untuk menyesuaikan cahaya display.
+- [ ] **IoT Features:** Sinkronisasi waktu otomatis via NTP Server (khusus ESP32/ESP8266).
+- [ ] **Enhanced Sensors:** Mengganti LM35 dengan DHT22 untuk monitoring kelembapan.
+- [ ] **Power Optimization:** Implementasi mode Deep Sleep untuk penghematan daya.
 ## 💻 Instalasi & Penggunaan
 1. Clone repositori ini:
    ```bash
