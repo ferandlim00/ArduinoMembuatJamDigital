@@ -21,7 +21,7 @@ Proyek ini adalah implementasi sistem jam digital berbasis mikrokontroler yang d
 | **Buzzer & LED** | Indikator Alarm/Detik |
 
 ## 📐 Skema Rangkaian
-*(Opsional: Anda bisa menambahkan gambar skema rangkaian di sini)*
+![Diagram Rangkaian Digital Clock](Skema Rangkaian.png)
 
 
 ## 💻 Instalasi & Penggunaan
